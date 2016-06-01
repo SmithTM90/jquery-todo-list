@@ -1,0 +1,36 @@
+body {
+  margin-top: 75px;
+  text-align: center;
+  font-family: arial;
+  background-color: #246;
+}
+ button {
+  font-size: 18px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 5px 10px;
+ }
+h1 {
+  font-size: 105px;
+}
+#inputForm {
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 18px;
+  width: 400px;
+  height: 30px;
+  margin-bottom: 30px;
+}
+#listDiv {
+  border: 2px solid black;
+  font-size: 35px;
+  padding-top: 50px;
+  margin: 0 auto;
+  border-radius: 75px;
+  background-color: #264;
+  width: 75%;
+  height: 800px;
+}
+#list {
+  list-style-type: none;
+}
